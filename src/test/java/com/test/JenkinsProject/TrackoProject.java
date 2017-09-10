@@ -18,6 +18,8 @@ public class TrackoProject {
 	@Test
 	public void f() {
 		driver.findElement(By.xpath("//a[contains(text(),'Log in')]")).click();
+		
+		driver.findElement(By.xpath("//input[@id='login-mobile']")).click();
 
 	}
 	@BeforeTest
