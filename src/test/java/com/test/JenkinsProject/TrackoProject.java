@@ -5,6 +5,7 @@ import org.testng.annotations.BeforeTest;
 
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -16,7 +17,7 @@ public class TrackoProject {
 
 	@Test
 	public void f() {
-		System.out.println("My Test");
+		driver.findElement(By.xpath("//a[contains(text(),'Log in')]")).click();
 
 	}
 	@BeforeTest
