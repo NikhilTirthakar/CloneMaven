@@ -23,7 +23,7 @@ public class TrackoProject {
 
 	}
 	@BeforeTest
-	public void beforeTest() {
+	public void beforeTest() throws InterruptedException {
 
 		System.setProperty("webdriver.chrome.driver", "Resource/chromedriver.exe");
 		driver = new ChromeDriver(); //initialize
@@ -33,6 +33,7 @@ public class TrackoProject {
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 
 		driver.manage().window().maximize();
+		Thread.sleep(5000);
 
 	}
 
