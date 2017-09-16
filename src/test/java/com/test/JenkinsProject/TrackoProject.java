@@ -33,7 +33,9 @@ public class TrackoProject {
 		driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
 
 		driver.manage().window().maximize();
+
 		Thread.sleep(2000);
+		System.out.println("classs");
 
 	}
 
