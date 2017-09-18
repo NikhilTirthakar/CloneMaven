@@ -34,7 +34,7 @@ public class TrackoProject {
 
 		driver.manage().window().maximize();
 
-		Thread.sleep(2000);
+		Thread.sleep(5000);
 		System.out.println("classs");
 
 	}
