@@ -1,0 +1,111 @@
+2017-12-11 09:57:39 ERROR test.JenkinsProject.TrackoProject:62 - Signup Process not running
+2017-12-11 10:13:50 ERROR test.JenkinsProject.TrackoProject:62 - Signup Process not running
+2017-12-11 10:15:30 INFO test.JenkinsProject.TrackoProject:37 - This will open my browser
+2017-12-11 10:15:37 INFO test.JenkinsProject.TrackoProject:39 - This will open my URL
+2017-12-11 10:15:40 INFO test.JenkinsProject.SignUP:43 - Clicking on the SignUp Button
+2017-12-11 10:15:40 INFO test.JenkinsProject.SignUP:58 - Entered User Name in the UserName Text Box
+2017-12-11 10:15:40 INFO test.JenkinsProject.SignUP:73 - Entered Email ID in the Email Text Box
+2017-12-11 10:15:41 INFO test.JenkinsProject.SignUP:88 - Giving Mobile Number
+2017-12-11 10:15:41 INFO test.JenkinsProject.SignUP:100 - SignUP Sucessfully
+2017-12-11 10:15:41 WARN test.JenkinsProject.SignUP:101 - If UserName is diffrent then SignUP rest process not move ahead
+2017-12-11 10:16:03 ERROR test.JenkinsProject.TrackoProject:62 - Signup Process not running
+2017-12-11 10:17:22 INFO test.JenkinsProject.TrackoProject:37 - This will open my browser
+2017-12-11 10:17:30 INFO test.JenkinsProject.TrackoProject:39 - This will open my URL
+2017-12-11 10:17:32 INFO test.JenkinsProject.SignUP:43 - Clicking on the SignUp Button
+2017-12-11 10:17:32 INFO test.JenkinsProject.SignUP:58 - Entered User Name in the UserName Text Box
+2017-12-11 10:17:33 INFO test.JenkinsProject.SignUP:73 - Entered Email ID in the Email Text Box
+2017-12-11 10:17:33 INFO test.JenkinsProject.SignUP:88 - Giving Mobile Number
+2017-12-11 10:17:33 INFO test.JenkinsProject.SignUP:100 - SignUP Sucessfully
+2017-12-11 10:17:33 WARN test.JenkinsProject.SignUP:101 - If UserName is not same as existing then SignUP rest process not move ahead
+2017-12-11 10:17:33 FATAL test.JenkinsProject.SignUP:102 - This is Fatal Error
+2017-12-11 10:17:55 ERROR test.JenkinsProject.TrackoProject:62 - Signup Process not running
+2017-12-12 09:25:43 INFO test.JenkinsProject.TrackoProject:38 - This will open my browser
+2017-12-12 09:25:51 INFO test.JenkinsProject.TrackoProject:40 - This will open my URL
+2017-12-12 09:25:55 INFO test.JenkinsProject.SignUP:43 - Clicking on the SignUp Button
+2017-12-12 09:25:56 INFO test.JenkinsProject.SignUP:59 - Entered User Name in the UserName Text Box
+2017-12-12 09:25:56 INFO test.JenkinsProject.SignUP:74 - Entered Email ID in the Email Text Box
+2017-12-12 09:25:57 INFO test.JenkinsProject.SignUP:89 - Giving Mobile Number
+2017-12-12 09:25:57 INFO test.JenkinsProject.SignUP:101 - SignUP Sucessfully
+2017-12-12 09:25:57 WARN test.JenkinsProject.SignUP:102 - If UserName is not same as existing then SignUP rest process not move ahead
+2017-12-12 09:25:57 FATAL test.JenkinsProject.SignUP:103 - This is Fatal Error
+2017-12-12 09:26:02 INFO test.JenkinsProject.SignUP:113 - Giving OTP
+2017-12-12 09:26:12 ERROR test.JenkinsProject.SignUP:129 - Verifying Mobile Number is not running
+2017-12-12 09:26:12 ERROR test.JenkinsProject.SignUP:139 - OK Button working is not running
+2017-12-12 09:26:14 INFO test.JenkinsProject.TrackoProject:59 - This is SignUP Process
+2017-12-12 09:37:05 INFO test.JenkinsProject.TrackoProject:38 - This will open my browser
+2017-12-12 09:37:14 INFO test.JenkinsProject.TrackoProject:40 - This will open my URL
+2017-12-12 09:37:17 INFO test.JenkinsProject.SignUP:43 - Clicking on the SignUp Button
+2017-12-12 09:37:17 INFO test.JenkinsProject.SignUP:59 - Entered User Name in the UserName Text Box
+2017-12-12 09:37:17 INFO test.JenkinsProject.SignUP:74 - Entered Email ID in the Email Text Box
+2017-12-12 09:37:18 INFO test.JenkinsProject.SignUP:89 - Giving Mobile Number
+2017-12-12 09:37:18 INFO test.JenkinsProject.SignUP:101 - SignUP Sucessfully
+2017-12-12 09:37:18 WARN test.JenkinsProject.SignUP:102 - If UserName is not same as existing then SignUP rest process not move ahead
+2017-12-12 09:37:18 FATAL test.JenkinsProject.SignUP:103 - This is Fatal Error
+2017-12-12 09:37:25 INFO test.JenkinsProject.SignUP:113 - Giving OTP
+2017-12-12 09:37:35 ERROR test.JenkinsProject.SignUP:129 - Verifying Mobile Number is not running
+2017-12-12 09:37:35 ERROR test.JenkinsProject.SignUP:139 - OK Button working is not running
+2017-12-12 09:37:37 INFO test.JenkinsProject.TrackoProject:59 - This is SignUP Process
+2017-12-15 17:41:22 INFO test.JenkinsProject.TrackoProject:41 - This will open my browser
+2017-12-15 17:41:32 INFO test.JenkinsProject.TrackoProject:43 - This will open my URL
+2017-12-15 17:41:36 ERROR test.JenkinsProject.SignUP:49 - Clicking on the SignUp Button is Failed
+2017-12-15 17:41:42 ERROR test.JenkinsProject.SignUP:65 - Entered User Name in the UserName Text Box is not correct
+2017-12-15 17:41:44 ERROR test.JenkinsProject.SignUP:79 - Entered Email ID in the Email Text Box is not correct
+2017-12-15 17:41:46 ERROR test.JenkinsProject.SignUP:93 - Mobile No. not accepting
+2017-12-15 17:41:48 ERROR test.JenkinsProject.SignUP:107 - SignUP Failed
+2017-12-15 17:41:52 ERROR test.JenkinsProject.TrackoProject:66 - Signup Process not running
+2017-12-15 18:12:24 INFO test.JenkinsProject.TrackoProject:41 - This will open my browser
+2017-12-15 18:12:32 INFO test.JenkinsProject.TrackoProject:43 - This will open my URL
+2017-12-15 18:12:32 ERROR test.JenkinsProject.SignUP:55 - Clicking on the SignUp Button is Failed
+2017-12-15 18:12:52 ERROR test.JenkinsProject.SignUP:71 - Entered User Name in the UserName Text Box is not correct
+2017-12-15 18:12:53 ERROR test.JenkinsProject.SignUP:85 - Entered Email ID in the Email Text Box is not correct
+2017-12-15 18:12:53 ERROR test.JenkinsProject.SignUP:99 - Mobile No. not accepting
+2017-12-15 18:12:53 ERROR test.JenkinsProject.SignUP:113 - SignUP Failed
+2017-12-15 18:12:55 ERROR test.JenkinsProject.TrackoProject:66 - Signup Process not running
+2017-12-15 18:26:17 INFO test.JenkinsProject.TrackoProject:41 - This will open my browser
+2017-12-15 18:26:25 INFO test.JenkinsProject.TrackoProject:43 - This will open my URL
+2017-12-15 18:26:27 ERROR test.JenkinsProject.SignUP:56 - Clicking on the SignUp Button is Failed
+2017-12-15 18:26:29 ERROR test.JenkinsProject.SignUP:72 - Entered User Name in the UserName Text Box is not correct
+2017-12-15 18:26:29 ERROR test.JenkinsProject.SignUP:86 - Entered Email ID in the Email Text Box is not correct
+2017-12-15 18:26:29 ERROR test.JenkinsProject.SignUP:100 - Mobile No. not accepting
+2017-12-15 18:26:29 ERROR test.JenkinsProject.SignUP:114 - SignUP Failed
+2017-12-15 18:26:31 ERROR test.JenkinsProject.TrackoProject:66 - Signup Process not running
+2017-12-15 19:02:01 INFO test.JenkinsProject.TrackoProject:41 - This will open my browser
+2017-12-15 19:02:09 INFO test.JenkinsProject.TrackoProject:43 - This will open my URL
+2017-12-15 19:02:11 ERROR test.JenkinsProject.SignUP:60 - Clicking on the SignUp Button is Failed
+2017-12-15 19:02:14 ERROR test.JenkinsProject.SignUP:76 - Entered User Name in the UserName Text Box is not correct
+2017-12-15 19:02:14 ERROR test.JenkinsProject.SignUP:90 - Entered Email ID in the Email Text Box is not correct
+2017-12-15 19:02:14 ERROR test.JenkinsProject.SignUP:104 - Mobile No. not accepting
+2017-12-15 19:02:14 ERROR test.JenkinsProject.SignUP:118 - SignUP Failed
+2017-12-15 19:02:16 ERROR test.JenkinsProject.TrackoProject:66 - Signup Process not running
+2017-12-17 16:48:28 INFO test.JenkinsProject.TrackoProject:41 - This will open my browser
+2017-12-17 16:48:39 INFO test.JenkinsProject.TrackoProject:43 - This will open my URL
+2017-12-17 16:48:43 ERROR test.JenkinsProject.SignUP:65 - Clicking on the SignUp Button is Failed
+2017-12-17 16:48:50 ERROR test.JenkinsProject.SignUP:81 - Entered User Name in the UserName Text Box is not correct
+2017-12-17 16:48:52 ERROR test.JenkinsProject.SignUP:95 - Entered Email ID in the Email Text Box is not correct
+2017-12-17 16:48:54 ERROR test.JenkinsProject.SignUP:109 - Mobile No. not accepting
+2017-12-17 16:48:56 ERROR test.JenkinsProject.SignUP:123 - SignUP Failed
+2017-12-17 16:49:00 ERROR test.JenkinsProject.TrackoProject:66 - Signup Process not running
+2017-12-28 22:40:57 INFO test.JenkinsProject.TrackoProject:42 - This will open my browser
+2017-12-28 22:41:15 INFO test.JenkinsProject.TrackoProject:44 - This will open my URL
+2017-12-28 22:41:23 ERROR test.JenkinsProject.SignUP:53 - Clicking on the SignUp Button is Failed
+2017-12-28 22:41:27 ERROR test.JenkinsProject.SignUP:65 - Entered User Name in the UserName Text Box is not correct
+2017-12-28 22:41:29 ERROR test.JenkinsProject.SignUP:75 - Entered Email ID in the Email Text Box is not correct
+2017-12-28 22:41:31 ERROR test.JenkinsProject.SignUP:84 - Mobile No. not accepting
+2017-12-28 22:41:33 ERROR test.JenkinsProject.SignUP:94 - SignUP Failed
+2017-12-28 22:41:37 ERROR test.JenkinsProject.TrackoProject:67 - Signup Process not running
+2017-12-29 16:26:48 INFO test.JenkinsProject.TrackoProject:42 - This will open my browser
+2017-12-29 16:28:00 INFO test.JenkinsProject.TrackoProject:44 - This will open my URL
+2017-12-29 16:28:19 ERROR test.JenkinsProject.SignUP:53 - Clicking on the SignUp Button is Failed
+2017-12-29 16:28:23 ERROR test.JenkinsProject.SignUP:65 - Entered User Name in the UserName Text Box is not correct
+2017-12-29 16:28:25 ERROR test.JenkinsProject.SignUP:75 - Entered Email ID in the Email Text Box is not correct
+2017-12-29 16:28:27 ERROR test.JenkinsProject.SignUP:84 - Mobile No. not accepting
+2017-12-29 16:28:29 ERROR test.JenkinsProject.SignUP:94 - SignUP Failed
+2017-12-29 16:28:33 ERROR test.JenkinsProject.TrackoProject:67 - Signup Process not running
+2017-12-29 16:31:31 INFO test.JenkinsProject.TrackoProject:42 - This will open my browser
+2017-12-29 16:32:27 INFO test.JenkinsProject.TrackoProject:44 - This will open my URL
+2017-12-29 16:32:47 ERROR test.JenkinsProject.SignUP:53 - Clicking on the SignUp Button is Failed
+2017-12-29 16:32:52 ERROR test.JenkinsProject.SignUP:65 - Entered User Name in the UserName Text Box is not correct
+2017-12-29 16:32:54 ERROR test.JenkinsProject.SignUP:75 - Entered Email ID in the Email Text Box is not correct
+2017-12-29 16:32:56 ERROR test.JenkinsProject.SignUP:84 - Mobile No. not accepting
+2017-12-29 16:32:58 ERROR test.JenkinsProject.SignUP:94 - SignUP Failed
+2017-12-29 16:33:02 ERROR test.JenkinsProject.TrackoProject:67 - Signup Process not running
